@@ -128,3 +128,7 @@ personalized_learning_platform/
 - Sample courses and topics are initialized via `init_data.py`
 - JWT secret key should be changed in production (set via environment variable)
 - CORS is enabled for all origins (restrict in production)
+
+**Author****
+Manaswi Sagiraju
+**
